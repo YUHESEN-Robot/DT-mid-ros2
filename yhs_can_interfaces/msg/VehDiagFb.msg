@@ -1,0 +1,17 @@
+uint8 veh_fb_fault_level
+bool veh_fb_auto_can_ctrl_cmd
+bool veh_fb_auto_can_io_cmd
+bool veh_fb_eps_dis_online
+bool veh_fb_eps_fault
+bool veh_fb_eps_mosfet_ot
+bool veh_fb_eps_warning
+bool veh_fb_eps_dis_work
+bool veh_fb_eps_over_current
+uint8 veh_fb_st_reserve
+uint8 veh_fb_lf_drv_mcu_fault
+uint8 veh_fb_rf_drv_mcu_fault
+uint8 veh_fb_lr_drv_mcu_fault
+uint8 veh_fb_rr_drv_mcu_fault
+bool veh_fb_aux_bms_dis_online
+bool veh_fb_aux_remote_dis_online
+uint8 veh_fb_aux_reserve
